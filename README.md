@@ -5,6 +5,7 @@
 * Added new callback function "OnRawPacket" track/block raw packet on your growtopia
 # Download
 * [Download](https://www.mediafire.com/file/up88cg466h9j3vy/growpai.rar/file)
+* [Tutorial](https://youtu.be/2ZmM38N60kk)
 * # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
 
